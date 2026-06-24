@@ -1,0 +1,23 @@
+{
+    "name": "mmd-site",
+    "version": "1.0.0",
+    "description": "About\nThe source code for the Minecraft Mod Development modding group website along with documentation for their mods.",
+    "author": "KiriCattus",
+    "license": "ARR",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/minecraftmoddevelopment/mmd-site"
+    },
+    "devDependencies": {
+        "vitepress": "^2.0.0-alpha.17"
+    },
+    "scripts": {
+        "dev": "vitepress dev",
+        "build": "vitepress build",
+        "preview": "vitepress preview"
+    },
+    "dependencies": {
+        "@catppuccin/vitepress": "^0.1.2"
+    }
+}
