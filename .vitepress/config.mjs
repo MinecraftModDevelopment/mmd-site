@@ -58,6 +58,7 @@ export default {
                 {
                     text: 'Minecraft Mods',
                     items: [
+                        {text: 'Minecraft Mineralogy', link: '/docs/minecraft-mineralogy'},
                         {text: 'Iron Age Furniture', link: '/docs/iron-age-furniture'},
                         {text: 'Base Metals', link: '/docs/base-metals'},
                         {text: 'MMD OreSpawn', link: '/docs/mmd-orespawn'},
