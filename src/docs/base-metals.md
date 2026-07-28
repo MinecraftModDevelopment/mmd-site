@@ -14,7 +14,7 @@ description: A Minecraft mod about mining metals, making alloys, and turning the
     </p>
     <div class="bm-actions">
       <a class="bm-button bm-button-primary" href="https://www.curseforge.com/minecraft/mc-mods/base-metals">Get released builds</a>
-      <a class="bm-button" href="https://github.com/SkyBlade1978/BaseMetals/tree/master-1.18">Browse the modern source</a>
+      <a class="bm-button" href="https://github.com/MinecraftModDevelopmentMods/BaseMetals/tree/master-1.18">Browse the modern source</a>
       <a class="bm-button" href="https://discord.moddev.zone">Join the MMD Discord</a>
     </div>
   </div>
@@ -67,7 +67,7 @@ OreSpawn.
     <div><small>Base Metals</small><strong>3.0.0</strong></div>
     <div><small>World generation</small><strong>OreSpawn 4.0.1 to 4.x</strong></div>
     <div><small>Runtime</small><strong>Forge 40.3.0+, Java 17</strong></div>
-    <a href="https://github.com/SkyBlade1978/BaseMetals/tree/master-1.18">Source</a>
+    <a href="https://github.com/MinecraftModDevelopmentMods/BaseMetals/tree/master-1.18">Source</a>
   </article>
   <article class="bm-version-row">
     <div><small>Released legacy line</small><strong>1.12.2</strong></div>
@@ -560,7 +560,7 @@ classes. They are the supported ways to extend the mod.
     <strong>Get the released Base Metals builds</strong>
     <span>Download the maintained 1.12.2 and 1.10.2 releases from CurseForge.</span>
   </a>
-  <a href="https://github.com/SkyBlade1978/BaseMetals/tree/master-1.18">
+  <a href="https://github.com/MinecraftModDevelopmentMods/BaseMetals/tree/master-1.18">
     <strong>Explore Base Metals 3.0.0</strong>
     <span>Read the modern 1.18.2 source, migration notes, and worldgen documentation.</span>
   </a>
