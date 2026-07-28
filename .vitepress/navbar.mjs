@@ -2,6 +2,7 @@ export default [
     {
         text: 'Our Mods',
         items: [
+            {text: 'Minecraft Mineralogy', link: '/docs/minecraft-mineralogy'},
             {text: 'Iron Age Furniture', link: '/docs/iron-age-furniture'},
             {text: 'Base Metals', link: '/docs/base-metals'}
         ]
