@@ -3,7 +3,8 @@ export default [
         text: 'Our Mods',
         items: [
             {text: 'Iron Age Furniture', link: '/docs/iron-age-furniture'},
-            {text: 'Base Metals', link: '/docs/base-metals'}
+            {text: 'Base Metals', link: '/docs/base-metals'},
+            {text: 'MMD OreSpawn', link: '/docs/mmd-orespawn'}
         ]
     },
     {
